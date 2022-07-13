@@ -1,0 +1,4 @@
+jupyter
+IPython
+numpy
+pandas
